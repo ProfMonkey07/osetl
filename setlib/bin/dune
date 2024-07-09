@@ -1,0 +1,4 @@
+(executable
+ (public_name setlib)
+ (name main)
+ (libraries setlib))
