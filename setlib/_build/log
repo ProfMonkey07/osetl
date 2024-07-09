@@ -1,0 +1,6 @@
+# dune init proj setlib
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/cmcqueen/.cache/dune/db
+# Workspace root: /Users/cmcqueen/ocaml/setlib
+# Auto-detected concurrency: 8
